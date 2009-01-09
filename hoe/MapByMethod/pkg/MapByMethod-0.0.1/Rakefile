@@ -1,0 +1,12 @@
+# -*- ruby -*-
+
+require 'rubygems'
+require 'hoe'
+require './lib/map_by_method.rb'
+
+Hoe.new('MapByMethod', MapByMethod::VERSION) do |p|
+  # p.rubyforge_name = 'MapByMethodx' # if different than lowercase project name
+  p.developer('Shin-ichiro OGAWA', 'rust.stnard@gmail.com')
+end
+
+# vim: syntax=Ruby

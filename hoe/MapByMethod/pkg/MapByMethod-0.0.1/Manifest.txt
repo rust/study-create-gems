@@ -1,0 +1,7 @@
+History.txt
+Manifest.txt
+README.txt
+Rakefile
+bin/map_by_method
+lib/map_by_method.rb
+test/test_map_by_method.rb
